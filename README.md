@@ -1,7 +1,7 @@
-# Jellyfin on OpenShift
+# Jellyfin on K8s
 
 This project contains the required resources to deploy Jellyfin into
-OpenShift.
+K8s.
 
 ## Kubernetes resources
 
